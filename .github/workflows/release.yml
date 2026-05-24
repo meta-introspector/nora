@@ -275,8 +275,6 @@ jobs:
             suffix: ""
           - name: redos
             suffix: "-redos"
-          - name: astra
-            suffix: "-astra"
 
     steps:
       - name: Set version tag (strip leading v)
